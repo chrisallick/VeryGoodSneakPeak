@@ -1,7 +1,7 @@
 {
     "name": "Very Good Co Sneak Peak",
     "description": "Create a layover ontop of products that shows Title and Price.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "manifest_version": 2,
     "content_scripts": [{
         "matches": ["https://verygoods.co/*"],
