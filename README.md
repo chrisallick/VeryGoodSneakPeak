@@ -1,6 +1,8 @@
 # Very Good Sneak Peak
 Very Good is very good, but I hate clicking the items to see what they cost and who made them. This just puts a div overlay ontop of the images.
 
+![](http://i.imgur.com/N4rOXpQ.png)
+
 Pretty Simple.
 
 1. download the repo
